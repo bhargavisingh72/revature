@@ -17,7 +17,8 @@ public class Sample12 {
 		else {
 			
 			
-			return output/2;    }
+			return output/2;   
+			}
 	
 		}
 	public static void main(String[] args) {
