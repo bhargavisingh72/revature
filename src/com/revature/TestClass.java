@@ -2,15 +2,18 @@ package com.revature;
 
 
 public class TestClass {
-	   static TestClass ref;    
-	   String[] arguments;
-	   public static void main(String args[]){ 
-		   ref = new TestClass();   
-		   ref.func(args); 
-		   } 
-	   public void func(String[] args){   
-		   ref.arguments = args;  
-		System.out.println("result"+ref.arguments);   
-	   }
-	   
+
+		public static void methodX() throws Exception
+
+		{       throw new AssertionError();  
+
+		 }      
+
+		public static void main(String[] args) {      
+
+		try{          methodX();       }      
+
+		catch(Exception e) {         System.out.println("EXCEPTION");       }  
+
+		 }
 }
