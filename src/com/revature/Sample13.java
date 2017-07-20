@@ -8,7 +8,7 @@ public class Sample13 {
      
      
      void call(){
-    	if((a=true)||(b=true)&&(c=true)){
+    	if((a=false)&&(b=false)||(c=true)){
     	System.out.println("a = "+a); 
     	System.out.println("b = "+b);
     	System.out.println("c = "+c);
