@@ -3,7 +3,6 @@ package com.revature;
 public class Sample22 {
 public static void main(String[] args) {
             String s  ="A";
-
       switch(s){
    case "a":
 	System.out.println("simple a");
@@ -14,7 +13,5 @@ public static void main(String[] args) {
 	case "A":
 		System.out.println("capital A");
 }
-
-
 }
 }
