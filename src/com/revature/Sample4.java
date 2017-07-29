@@ -13,7 +13,7 @@ public class Sample4 {
 		}
 		 System.out.println(teenyBit); 
 		 }
-	public static void main(String... args) {
+	public static void main(Sample50... args) {
 		Sample4 t=new Sample4();
 		t.eatIfHungry(hungry);
 	}

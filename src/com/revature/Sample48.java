@@ -2,7 +2,7 @@ package com.revature;
 
 public class Sample48 {
     
-        public static void main(String... args) { 
+        public static void main(Sample50... args) { 
         	int marks = 10;
         
             switch (marks) { 

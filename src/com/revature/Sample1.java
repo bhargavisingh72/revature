@@ -6,7 +6,7 @@ public class Sample1 {
 	    public Sample1(int k){
 	        this.intVal = k; 
 	    }
-	 public static void main(String[] args) throws Exception {
+	 public static void main(Sample50[] args) throws Exception {
 	        Sample1 d1 = new Sample1(10);
 	        d1.strVal = "D1";
 	        Sample1 d2 = d1;

@@ -14,7 +14,7 @@ public class Sample2 {
 	    double a=base*height/2;
 	    System.out.println("Result:"+a);
 	}
-	public static void main(String... args) {
+	public static void main(Sample50... args) {
 		new Sample2(4,6);
 	}
 }

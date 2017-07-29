@@ -10,7 +10,7 @@ public class Sample11 {
 	    public void showTwo(int myValue){
 	        this.myValue = myValue;
 	    }    
-	    public static void main(String[] args) {
+	    public static void main(Sample50[] args) {
 	        Sample11 ct = new Sample11();
 	        ct.showOne(200);
 	        System.out.println(ct.myValue);

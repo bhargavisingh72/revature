@@ -14,7 +14,7 @@ public class Sample41 {
 	System.out.println(a);
 	} 
 	
-	public static void main(String[] args) {
+	public static void main(Sample50[] args) {
 		Sample41 sam = new Sample41();
 		sam.method();
 	}

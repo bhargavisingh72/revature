@@ -1,8 +1,8 @@
 package com.revature;
 
 class Triangle{
-    public int base;
-    public int height;
+    public int base=6;
+    public int height=7;
     public double area = 0;
     
     public Triangle(int pBase, int pHeight){
@@ -14,8 +14,8 @@ class Triangle{
         area = a;
         System.out.println("result:"+a);
     }
-    public void setBase(int b){ base  = b; updateArea(); }
-    public void setHeight(int h){ height  = h; updateArea(); }
+    /*public void setBase(int b){ base  = b; updateArea(); }
+    public void setHeight(int h){ height  = h; updateArea(); }*/
 
      public static void main(String[] args) {
 		new Triangle(2,4);

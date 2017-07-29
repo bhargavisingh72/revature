@@ -1,7 +1,7 @@
 package com.revature;
 
 public class Main {
-	public static void main(String[] args) { 
+	public static void main(Sample50[] args) { 
         Shape rectangle = new Rectangle(5);  // A
         System.out.println(","+rectangle.hasEdges()); // B
       } 

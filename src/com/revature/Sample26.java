@@ -3,7 +3,7 @@ package com.revature;
 public class Sample26 {
 	
 	
-	public static void main(String args[]){
+	public static void main(Sample50 args[]){
 		String s1="this is index of example";
 		//passing substring
 		int index1=s1.indexOf("is");//returns the index of is substring

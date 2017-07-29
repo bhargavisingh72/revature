@@ -9,7 +9,7 @@ public class OverloadingTest {
 	        System.out.println("m1 double");
 	    }
 	    
-	    void m1(String x){
+	    void m1(Sample50 x){
 	        System.out.println("m1 String");
 	    }
 	    

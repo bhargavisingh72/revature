@@ -8,7 +8,7 @@ public class Sample43 {
 Sample43(){
 	System.out.println(b);
 }
-public static void main(String[] args) {
+public static void main(Sample50[] args) {
 	int a=1;
 	Sample43  sa = new Sample43();
 	sa.method();

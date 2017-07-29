@@ -5,10 +5,10 @@ public class Sample24 {
 
 int id;
 String name;
-public Sample24(int id, String name) {
+public Sample24(int id, String string) {
 	super();
 	this.id = id;
-	this.name = name;
+	this.name = string;
 	
 }
 

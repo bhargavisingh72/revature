@@ -13,10 +13,10 @@ public class Sample9 {
 	   }
 	   static String s2 = sM1("c");
 	   String s4 = sM1("4");
-	    public static void main(String args[]){
+	    public static void main(Sample50 args[]){
 	        Sample9 it = new Sample9();
 	    }
-	    private static String sM1(String s){
-	       System.out.println(s);  return s;
+	    private static String sM1(String string){
+	       System.out.println(string);  return string;
 	    }
 	}

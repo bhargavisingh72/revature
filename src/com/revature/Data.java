@@ -2,7 +2,7 @@ package com.revature;
 
 public class Data {
 
-	public static void main(String args[]){  
+	public static void main(Sample50 args[]){  
 		StringBuilder sb=new StringBuilder();  
 		System.out.println(sb.capacity());//default 16  
 		sb.append("Hello");  

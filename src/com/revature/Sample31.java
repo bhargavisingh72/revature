@@ -1,7 +1,7 @@
 package com.revature;
 
 public class Sample31 {
-	  public static void main(String[] argv){
+	  public static void main(Sample50[] argv){
 		     System.out.print("a"); 
 		     try { 
 		       System.out.print("b"); 

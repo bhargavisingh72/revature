@@ -1,7 +1,7 @@
 package com.revature;
 
 public class Sample34 {
-	  public static void main(String[] argv){
+	  public static void main(Sample50[] argv){
 		     String s1 = "Java"; 
 		     String s2 = "Java"; 
 		     StringBuilder sb1 = new StringBuilder(); 

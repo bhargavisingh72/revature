@@ -13,7 +13,7 @@ public class Sample44 {
 
     }
 
-       public static void main(String[] args) {
+       public static void main(Sample50[] args) {
 
         printSum(1.0, 2.0);
 

@@ -15,7 +15,7 @@ public class Sample36 {
 		    throw new StackOverflowError();
 		  }
 
-		  public static void main(String args[]) {
+		  public static void main(Sample50 args[]) {
 		    Sample36 var = new Sample36();
 		    var.method();
 		  }

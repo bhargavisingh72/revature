@@ -8,12 +8,12 @@ public class Sample35 {
         public Sample35(String color) { 
           this.color = "black"; 
         } 
-        void method(String color){
+        void method(Sample50 color){
         	this.color = "orange";
         }
-       public static void main(String[] args) { 
+       public static void main(Sample50[] args) { 
     	   String col="yellow";
-    	   String a=null;;
+    	   Sample50 a=null;;
         Sample35 e = new Sample35(col); 
         e.method(a);
         System.out.println("Color:" + e.color);

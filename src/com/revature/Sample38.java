@@ -11,7 +11,7 @@ public class Sample38 {
         } 
         return a; 
     } 
-    public static void main(String args[]) { 
+    public static void main(Sample50 args[]) { 
         System.out.println(new Sample38().tryAgain()); 
     } 
 

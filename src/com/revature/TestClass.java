@@ -9,7 +9,7 @@ public class TestClass {
 
 		 }      
 
-		public static void main(String[] args) {      
+		public static void main(Sample50[] args) {      
 
 		try{          methodX();       }      
 

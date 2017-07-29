@@ -1,7 +1,7 @@
 package com.revature;
 
 public class Sample22 {
-public static void main(String[] args) {
+public static void main(Sample50[] args) {
             String s  ="A";
       switch(s){
    case "a":

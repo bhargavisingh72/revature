@@ -3,7 +3,7 @@ package com.revature;
 public class Sample18 {
 	int a = 10;
 	int b = 20;
-  public static void main(String[] args) {
+  public static void main(Sample50[] args) {
 	new Sample18().print();
 	}
   

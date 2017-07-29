@@ -2,9 +2,9 @@ package com.revature;
 
 public class Person {
 	 
-		    Person(String s,int i ){
+		    Person(String string,int i ){
 		        ++pid;
-		        name=s;
+		        name=string;
 		        age=i;
 		        }
 		      static int pid;
