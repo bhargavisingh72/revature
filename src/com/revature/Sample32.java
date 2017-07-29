@@ -1,7 +1,7 @@
 package com.revature;
 
 public class Sample32 {
-	  public static void main(Sample50[] args) { 
+	  public static void main(String[] args) { 
 		       
 		         int myValue = 0; 
 		        int x = 3; 

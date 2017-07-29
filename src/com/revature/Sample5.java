@@ -1,7 +1,7 @@
 package com.revature;
 
 public class Sample5 {
-public static void main(Sample50[] args) {
+public static void main(String[] args) {
 	boolean b1=true;
 	boolean b2=true;
 	boolean b3=true;

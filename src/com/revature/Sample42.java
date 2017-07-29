@@ -1,7 +1,7 @@
 package com.revature;
 
 public class Sample42 {
-public static void main(Sample50[] args) {
+public static void main(String[] args) {
 	int i = 5;
 	int j = 7;
 	int p = (i++)-(--j);

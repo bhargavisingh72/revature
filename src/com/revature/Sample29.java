@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Sample29 {
-	  public static void main(Sample50[] args){
+	  public static void main(String[] args){
 		     int[] array = {6,9,8}; 
 		     List<Integer> list = new ArrayList<>(); 
 		     list.add(array[0]); 

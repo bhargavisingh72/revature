@@ -21,7 +21,7 @@ public class Sample12 {
 			}
 	
 		}
-	public static void main(Sample50[] args) {
+	public static void main(String[] args) {
 		Sample12 obj= new Sample12();
 		obj.transformNumber(2);
 		System.out.println("output:"+output);

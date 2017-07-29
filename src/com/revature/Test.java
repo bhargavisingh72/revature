@@ -1,7 +1,7 @@
 package com.revature;
 
 public class Test {
-	public static void main(Sample50 args[]){
+	public static void main(String args[]){
 	      Person p1 = new Person("John" , 22);
 	      Test te = new Test();
 	      Person p2 = te.change(p1);

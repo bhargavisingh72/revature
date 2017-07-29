@@ -1,7 +1,7 @@
 package com.revature;
 
 public class Someclass {
-	public static void main( Sample50 args[ ] ){      
+	public static void main( String args[ ] ){      
          
          
          int a[]={1,2,3};

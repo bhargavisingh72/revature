@@ -11,7 +11,7 @@ public class Sample35 {
         void method(Sample50 color){
         	this.color = "orange";
         }
-       public static void main(Sample50[] args) { 
+       public static void main(String[] args) { 
     	   String col="yellow";
     	   Sample50 a=null;;
         Sample35 e = new Sample35(col); 

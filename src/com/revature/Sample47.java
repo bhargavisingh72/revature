@@ -19,7 +19,7 @@ public class Sample47 {
 
 	  }
 
-	     public static void main(Sample50[] args) {
+	     public static void main(String[] args) {
 
 	      printSum(1, 2);
 

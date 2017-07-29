@@ -12,7 +12,7 @@ public class Sample49 {
     void m1(Sample50 x){
         System.out.println("m1 String");
     }
-    public static void main(Sample50[] args) throws Exception {
+    public static void main(String[] args) throws Exception {
         OverloadingTest ot = new OverloadingTest();
         ot.m1(1.0);
 }
