@@ -1,9 +1,5 @@
 package com.practice;
 
-public class Z extends Y{
+public interface Z {
 
-    public Z(){
-
-        System.out.println("In Z");
-
-    }}
+}

@@ -1,13 +1,7 @@
 package com.practice;
 
 public class Y extends X{
-
-    public Y(){
-
-        super();
-
-        System.out.println("In Y");
-
-    }
-
+public String toString(){
+	return "Y";
+}
 }
