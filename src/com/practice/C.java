@@ -1,5 +1,5 @@
 package com.practice;
 
-public class A {
+public class C extends B{
 
 }

@@ -1,5 +1,5 @@
 package com.practice;
 
-public class A {
+public interface Contract {
 
 }
