@@ -1,6 +1,5 @@
 package OCAExamPractice;
 
-import java.util.Arrays;
 
 public class ArrayCopy {
 	public static void main(String[] args) {

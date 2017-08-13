@@ -1,6 +1,11 @@
 package OCAExamPractice;
 
-import com.practice.Aquatic;
+interface Aquatic{
+public default int getNumberOfGills(int input){
+	return 2;
+}
+}
+
 
 public class ClownFish implements Aquatic{
 	public String getNumberOfGills(){
